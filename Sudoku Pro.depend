@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1690634742 source:c:\c programming\sudoku pro\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+
